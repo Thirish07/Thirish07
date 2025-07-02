@@ -1,5 +1,6 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Hi,%20I'm%20Thirisala%20👋&fontSize=40&fontColor=ffffff" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Thirisala+Govindaraj;Full+Stack+Web+Developer;MERN+Stack+Specialist;Backend+Engineer+with+Java+%26+PostgreSQL;Let's+Build+Something+Awesome!">
+
 
 <!-- Profile intro -->
 <p align="center">
@@ -65,7 +66,4 @@
   <a href="https://github.com/Thirish07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
 
-<!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=150&section=footer"/>
